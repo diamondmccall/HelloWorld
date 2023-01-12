@@ -1,0 +1,15 @@
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
